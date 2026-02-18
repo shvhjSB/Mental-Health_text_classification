@@ -96,3 +96,6 @@ Managing large ML artifacts responsibly
 Writing clean, reproducible ML projects
 
 
+<img width="1905" height="952" alt="project_ss" src="https://github.com/user-attachments/assets/070ef344-1db5-46b5-942f-edc56ec5da82" />
+
+
