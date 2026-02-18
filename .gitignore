@@ -1,0 +1,16 @@
+# Virtual environment
+myvenv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+saved_mental_status_bert/
+label_encoder.pkl
